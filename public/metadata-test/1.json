@@ -1,0 +1,21 @@
+{
+  "name": "Hypertoons #1",
+  "description": "A unique Hypertoons NFT on HyperLiquid blockchain. Cute, vibrant, and full of personality!",
+  "image": "https://mint.hypertoons.xyz/images/1.png",
+  "external_url": "https://mint.hypertoons.xyz/nft/1",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Hypertoons Genesis"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "HyperLiquid"
+    }
+  ],
+  "compiler": "Hypertoons Fix Script v1.0"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "HyperToons #931",
+  "description": "Welcome to the Hyper Toons universe – a quirky, comic-inspired NFT collection where chaos meets charisma! Each Hyper Toons is a stickman full of personality, style, and horns that scream attitude.",
+  "image": "ipfs://bafybeid552czjykpeapjms6opciqh2cfabzrghr4bmtxg7yox2vjcz7e4e/931.png",
+  "dna": "07beb0c4f77950fbe2bf1c09c6d8011683c02b29",
+  "edition": 931,
+  "date": 1752230817044,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "LavenderMist"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NeutralBlob"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HypeCapSky"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HyperRoyalCape"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "ToonpasteSqueeze"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

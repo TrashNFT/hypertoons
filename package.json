@@ -1,0 +1,57 @@
+{
+  "name": "hypertoons-mintpad",
+  "version": "1.0.0",
+  "description": "Hypertoons NFT Minting Website for HyperLiquid Blockchain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "compile": "hardhat compile",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network hyperliquidTestnet",
+    "deploy:simple": "hardhat run scripts/deploySimple.js --network hyperliquidTestnet",
+    "deploy:minimal": "hardhat run scripts/deployMinimal.js --network hyperliquidTestnet",
+    "deploy:mainnet": "hardhat run scripts/deploy.js --network hyperliquid",
+    "verify:testnet": "hardhat verify --network hyperliquidTestnet",
+    "verify:mainnet": "hardhat verify --network hyperliquid",
+    "generate-merkle": "node scripts/generateMerkleTree.js",
+    "generate-metadata": "node scripts/generateMetadata.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.0",
+    "autoprefixer": "^10.4.16",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "hardhat": "^2.19.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.5.0"
+  },
+  "keywords": [
+    "nft",
+    "minting",
+    "hyperliquid",
+    "react",
+    "blockchain"
+  ],
+  "author": "Hypertoons Team",
+  "license": "MIT"
+}

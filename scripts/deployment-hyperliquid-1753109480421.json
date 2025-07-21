@@ -1,0 +1,14 @@
+{
+  "network": "hyperliquid",
+  "chainId": "999",
+  "contractAddress": "0x6eC511e72F5F2A478d621E8d8088C0d1637BcaD3",
+  "deployer": "0x55e5c2DA2e395D754c78388a76bCdE1c2CB5388b",
+  "txHash": "0x69b48ea99f2f2fecee5694e008af58986a1f550b07f09098df5ec5e0540f770d",
+  "timestamp": "2025-07-21T14:51:20.421Z",
+  "baseURI": "ipfs://bafybeiellww2lcrlzc6gen6mf5i6347zicrnsyqdrx56cfy4ci2q3wocvy/",
+  "verification": {
+    "totalSupply": "0",
+    "currentPhase": "0",
+    "owner": "0x55e5c2DA2e395D754c78388a76bCdE1c2CB5388b"
+  }
+}

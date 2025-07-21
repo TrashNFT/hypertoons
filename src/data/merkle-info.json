@@ -1,0 +1,9 @@
+{
+  "teamMerkleRoot": "0xa988f9c22c4012e4cb065eeb03bf948e79154bfda8eaa43db95c686dcafe03a0",
+  "ogMerkleRoot": "0xe5ebe57941226bf7e834bd0544e05e9ca5d7028f7e6463e4937f5eb805a16aa5",
+  "wlMerkleRoot": "0xe842a8f881d0bb826f1143982f307f4b12dfccee55e343aa30be3e130bbb6a88",
+  "teamAddressCount": 2,
+  "ogAddressCount": 1667,
+  "wlAddressCount": 20,
+  "generatedAt": "2025-07-21T14:55:48.548Z"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Hypertoons #1",
+  "description": "A unique and adorable digital collectible from the Hypertoons universe. This character brings joy and creativity to the blockchain!",
+  "image": "https://mint.hypertoons.xyz/images/nfts/1.png",
+  "external_url": "https://hypertoons.xyz/nft/1",
+  "animation_url": "https://mint.hypertoons.xyz/animations/1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmic Purple"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Happy Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkle Eyes"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Golden Crown"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": 95,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 1"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Time Warp"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mint.hypertoons.xyz/images/nfts/1.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://mint.hypertoons.xyz/animations/1.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image"
+  },
+  "compiler": "Hypertoons Generator v1.0"
+} 

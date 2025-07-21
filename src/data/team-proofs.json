@@ -1,0 +1,11 @@
+{
+  "merkleRoot": "0xa988f9c22c4012e4cb065eeb03bf948e79154bfda8eaa43db95c686dcafe03a0",
+  "proofs": {
+    "0xfee91262eef4ac0d450923a47ce2029071de0dcf": [
+      "0xe2db5633cc5397504e40840734fadf53eec2ea157842207ce1f5bfa7faa06cd2"
+    ],
+    "0x55e5c2da2e395d754c78388a76bcde1c2cb5388b": [
+      "0xaa162c3a850fd2b2b2de9638cd2c7f2f87241e46e44cbef5440ac82e13d273e0"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HyperToons",
+  "description": "Welcome to the Hyper Toons universe – a quirky, comic-inspired NFT collection where chaos meets charisma! Each Hyper Toons is a stickman full of personality, style, and horns that scream attitude.",
+  "image": "ipfs://bafybeid552czjykpeapjms6opciqh2cfabzrghr4bmtxg7yox2vjcz7e4e/logo.png",
+  "external_link": "https://mint.hypertoons.xyz",
+  "seller_fee_basis_points": 750,
+  "fee_recipient": "0x55e5c2DA2e395D754c78388a76bCdE1c2CB5388b"
+}
